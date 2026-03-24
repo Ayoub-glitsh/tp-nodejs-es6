@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <img src="" width="50" />
+  <img src="assets/images/tp_01.png" />
 </div>
 
 
