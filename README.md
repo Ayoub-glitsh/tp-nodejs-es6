@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%A6+TP+Node.js+ES6" alt="Typing SVG" />
 </div>
@@ -28,11 +34,13 @@ Il inclut :
 🛠️ Technologies utilisées
 --------------------------
 
-*   Node.js
-    
-*   JavaScript (ES6)
-    
-*   API REST ([https://restcountries.com](https://restcountries.com/))
+ | Technologie | Icône |
+|-------------|-------|
+| Node.js     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> |
+| JavaScript  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
+| ES6         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
+| API REST    | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/restapi.svg" width="40" /> |
+| Fetch       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
     
 
 * * *
