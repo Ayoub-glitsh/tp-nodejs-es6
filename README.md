@@ -1,11 +1,28 @@
 
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="assets/icons/téléchargement-removebg-preview.png" width="50" />
+  <img src="https://github.com/user-attachments/assets/d376f838-b62e-4cbc-adf2-4e84c00a64fb" width="50" />
+  <img src="https://github.com/user-attachments/assets/31e2fd9e-eaf4-4707-8210-3518fa1c61d2" width="50" />
+</div>
+
+
+<br/>
 
 
 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%A6+TP+Node.js+ES6" alt="Typing SVG" />
+</div>
+
+<br/> 
+
+
+<div align="center">
+  <img src="" width="50" />
 </div>
 
 
