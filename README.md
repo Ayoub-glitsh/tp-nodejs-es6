@@ -38,7 +38,7 @@ Il inclut :
 |-------------|-------|
 | Node.js     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> |
 | JavaScript  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
-| ES6         | <img src="assets/icons/téléchargement.png" width="40" /> |
+| ES6         | <img src="assets/icons/téléchargement-removebg-preview.png" width="75" /> |
 | API REST    | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/restapi.svg" width="40" /> |
 | Fetch       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
     
